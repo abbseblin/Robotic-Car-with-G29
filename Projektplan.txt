@@ -1,0 +1,7 @@
+Projektplan
+1. Bygga bilen (inklusive mikrodator, motorer, servo m.m.)
+2. MQTT-koppling (Simpel hemsida + Arduino kod)
+3. Kamera live feed till hemsida
+4. Bygga ut MQTT clients/subscribers
+5. utveckla hemsida med styrreglage m.m.
+6. Styra bilen med Logitech G29
