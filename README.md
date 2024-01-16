@@ -4,4 +4,4 @@ This is my repository for development of my own robotic car that's going to be e
 
 ## Planner
 
-<img src="https://github.com/abbseblin/Robotic-Car-with-G29/blob/main/White%20Abstract%20Dot%20Grid%20Bullet%20Journal.png" alt="drawing" height="700"/>
+<img src="https://github.com/abbseblin/Robotic-Car-with-G29/blob/main/Images/White%20Abstract%20Dot%20Grid%20Bullet%20Journal.png" alt="drawing" height="700"/>
